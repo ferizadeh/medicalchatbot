@@ -23,7 +23,17 @@ This project implements a medical chat bot designed to provide basic medical inf
 
 To run the medical chat bot locally:
 
-1. **Clone the repository:**
+4. **Open your web browser and navigate to `http://localhost:5000` to interact with the chat bot.**
 
-   ```bash
-   git clone https://github.com/yourusername/medical-chat-bot.git
+## Usage
+
+- Type your medical questions or symptoms into the chat box.
+- The chat bot will respond with relevant medical information or advice.
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and submit pull requests with improvements or additional features.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
