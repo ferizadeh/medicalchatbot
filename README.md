@@ -23,6 +23,22 @@ This project implements a medical chat bot designed to provide basic medical inf
 
 To run the medical chat bot locally:
 
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/yourusername/medical-chat-bot.git
+
+2. **Install dependencies:**
+
+   ```bash
+   cd medical-chat-bot
+   pip install -r requirements.txt
+   
+3. **Start the Flask server:**
+
+   ```bash
+   python app.py
+   
 4. **Open your web browser and navigate to `http://localhost:5000` to interact with the chat bot.**
 
 ## Usage
