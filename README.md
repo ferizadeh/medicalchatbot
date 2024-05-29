@@ -29,7 +29,6 @@ To run the medical chat bot locally:
    git clone https://github.com/yourusername/medical-chat-bot.git
 
 2. **Install dependencies:**
-
    ```bash
    cd medical-chat-bot
    pip install -r requirements.txt
