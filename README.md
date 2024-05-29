@@ -1,8 +1,8 @@
 # Medical Chat Bot
-cddddddddddddddddddddddddddddddd
+
 ## Overview
 
-TTTTTTTTTTTTTTTTTThis project implements a medical chat bot designed to provide basic medical information and assistance to users through a conversational interface. The bot utilizes natural language processing (NLP) techniques to understand user queries and respond with relevant medical information.
+This project implements a medical chat bot designed to provide basic medical information and assistance to users through a conversational interface. The bot utilizes natural language processing (NLP) techniques to understand user queries and respond with relevant medical information.
 
 ## Features
 
